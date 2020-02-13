@@ -1,0 +1,13 @@
+﻿tr > td > a {
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+.AspNet-GridView table tbody tr td:nth-child(1) {
+    /*  Set the width of the 1st GridView column */
+    width: 200px !important;
+}
+
+.AspNet-GridView table tbody tr td:nth-child(2) {
+    /*  Set the width of the 2nd GridView column */
+    width: 300px !important;
+}

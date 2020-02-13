@@ -1,0 +1,30 @@
+﻿.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+.btn-outline-warning:hover{
+    color:white !important;
+
+}
+.encabezado{
+   background:#5D7B9D !important;
+}
+
+.td-encabezado {
+    height: 40px !important;
+}
+
+.anchoConducta{
+    width:250px !important;
+}
+.celda-margen{
+    margin:0 !important;
+    padding:0 !important;
+}
+.card, .card-header {
+    width: 1200px !important;
+}
